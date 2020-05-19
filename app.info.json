@@ -1,11 +1,11 @@
 {
   "app_name": "frontend-assets",
-  "src_hash": "1b793a371b06b58f956584829a461562fe85fe18",
+  "src_hash": "77fd235c3c1741e50b5b339045332e1552234404",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "78",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/frontend-assets/builds/687570082"
+    "build_number": "87",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/frontend-assets/builds/688965958"
   }
 }
