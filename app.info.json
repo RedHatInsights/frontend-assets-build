@@ -1,14 +1,14 @@
 {
   "app_name": "frontend-assets",
   "node_version": ">=16.0.0",
-  "src_hash": "cfa5e4cb4b171a0eae52273e68ef8b7dc682440a",
+  "src_hash": "036861bfc081d08ea47291b8c4b5433d720439be",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": [""],
   "rh_cloud_services_dependencies": [""],
   "travis": {
     "event_type": "push",
-    "build_number": "294",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/frontend-assets/builds/269008201"
+    "build_number": "297",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/frontend-assets/builds/269044367"
   }
 }
